@@ -1,0 +1,19 @@
+body{
+    background-color:azure;
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img{ 
+    width:50%;
+    max-width:100%;
+}
+.characteristic{
+    color:coral;
+}
+h1
+{
+    text-align:center;
+}
+.end{
+    padding:20px;
+}
